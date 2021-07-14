@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">L09-NDPSongs</string>
+    <string name="main">L09-NDPSongs ~ Insert Song</string>
+    <string name="showlist">L09-NDPSongs ~ Show Song</string>
+    <string name="modify">L09-NDPSongs ~ Modify Song</string>
+    <string name="tvID">ID</string>
+    <string name="etID">ID</string>
+    <string name="tvTitle">Title</string>
+    <string name="etTitle">Enter song title here</string>
+    <string name="tvSingers">Singers</string>
+    <string name="etSingers">Enter singers\' name here</string>
+    <string name="tvYear">Year</string>
+    <string name="etYear">Enter year of release here</string>
+    <string name="tvStars">Stars</string>
+    <string name="rb1">1</string>
+    <string name="rb2">2</string>
+    <string name="rb3">3</string>
+    <string name="rb4">4</string>
+    <string name="rb5">5</string>
+    <string name="btnInsert">Insert</string>
+    <string name="btnShowList">Show List</string>
+    <string name="btn5stars">Show All Songs With 5 Stars</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnCancel">Cancel</string>
+</resources>
